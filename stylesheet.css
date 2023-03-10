@@ -1125,6 +1125,18 @@ audio {
 #b99 {
     background-image: url("b9.png");
 }
+#b910,
+#b9100{
+    background-image: url("b910.png");
+}
+#b911,
+#b9111{
+    background-image: url("b911.png");
+}
+#b912,
+#b9122{
+    background-image: url("b912.png");
+}
 .balloons-rotate-behaviour-one {
     -webkit-animation: balloons_rotate_one linear 10s infinite;
     -webkit-transform: rotate(30deg);
@@ -1290,7 +1302,7 @@ audio {
 }
 .message p {
     font-family: "Signika", sans-serif;
-    font-size: 30px;
+    font-size: 40px;
     text-transform: uppercase;
     color: #c4515c;
     text-shadow: 2px 2px 2px #fff;
